@@ -12,3 +12,4 @@ github_username:  harwoodspike
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
