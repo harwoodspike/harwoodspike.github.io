@@ -10,3 +10,5 @@ github_username:  harwoodspike
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-modernist
